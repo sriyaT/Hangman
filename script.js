@@ -46,7 +46,7 @@ function displayWord() {
   const innerWord = wordEl.innerText.replace(/\n/g, '');
 
   if (innerWord.length > 0 && innerWord == selectedWord) {
-    finalMessage.innerText = 'congratulations! You Won! 🥳';
+    finalMessage.innerText = 'Congratulations! You Won! 🥳';
     popup.style.display = 'flex';
     gameOver = true;
   }
