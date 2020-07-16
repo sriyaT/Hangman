@@ -10,8 +10,7 @@ body {
   align-items: center;
   height: 80vh;
   margin: 0;
-  overflow: auto;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 h1 {
