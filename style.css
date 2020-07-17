@@ -141,7 +141,7 @@ h1 {
   right: -100%;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 320px) and (max-width: 400px) {
   body {
     height: 80vh;
   }
