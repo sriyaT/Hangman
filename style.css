@@ -140,3 +140,25 @@ h1 {
   position: fixed;
   right: -100%;
 }
+
+@media (min-width: 320px) {
+  body {
+    height: 80vh;
+  }
+
+  h1 {
+    font-size: 14px;
+  }
+  .description {
+    font-size: 12px;
+  }
+  .game-container {
+    height: 250px;
+    width: 300px;
+    margin-bottom: 180px;
+  }
+  .figure-container {
+    height: 170px;
+    width: 150px;
+  }
+}
