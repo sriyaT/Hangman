@@ -159,12 +159,12 @@ h1 {
   }
   .figure-container {
     height: 180px;
-    width: 150px;
+    width: 170px;
   }
   .wrong-letters-container {
     right: -22%;
   }
   .word {
-    bottom: -40%;
+    bottom: -20%;
   }
 }
